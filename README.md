@@ -1,8 +1,7 @@
 # BLM417-Odev2
-# Programlanabilir Yapılar - Ödev 2
-## Ödev tkGate programında yapılacaktır.
+# Programlanabilir Yapılar
 
-Ödevde sayici isimli modülün Verilog dilinde kodlanması istenilmektedir.
+sayici isimli modülün Verilog dilinde kodlanması istenilmektedir.
 
 ![enter image description here](https://drive.google.com/uc?export=download&id=16pxDaVC0cmx6mrOn6RFWXVKOVOmfqih2)
 
