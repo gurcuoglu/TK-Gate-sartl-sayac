@@ -1,4 +1,4 @@
-# BLM417-Odev2
+# BLM417
 # Programlanabilir Yapılar
 
 sayici isimli modülün Verilog dilinde kodlanması istenilmektedir.
